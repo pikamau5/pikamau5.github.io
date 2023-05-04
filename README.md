@@ -1,6 +1,6 @@
-# Latest blog posts
-[My first pc demo](blog_demo.md)
+# Blog
+[#001 - My first pc demo (may/2023)](blog_demo.md)
 
-# Useful stuff
+## other useful things
 
 [Houdini things](houdini-things.md)
