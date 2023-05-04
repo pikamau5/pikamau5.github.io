@@ -1,10 +1,14 @@
 # Potati's Houdini Things
 
-[VEX - cheat sheet](https://www.tokeru.com/cgwiki/VexCheatSheet)
-[VEX - attributes](https://www.sidefx.com/docs/houdini/vex/snippets.html#attributes)
-[HDA - Populating an  ordered menu with a script](https://brendandawes.com/blog/creating-houdini-menus)
-[VEX - more vex snippets](https://github.com/Kuchavo/VEX-Snippets)
-[HOUDINI - event callbacks](https://80.lv/articles/template-flag-kitty-using-event-callbacks-in-houdini/)
+- [VEX - cheat sheet](https://www.tokeru.com/cgwiki/VexCheatSheet)
+
+- [VEX - attributes](https://www.sidefx.com/docs/houdini/vex/snippets.html#attributes)
+
+- [HDA - Populating an  ordered menu with a script](https://brendandawes.com/blog/creating-houdini-menus)
+
+- [VEX - more vex snippets](https://github.com/Kuchavo/VEX-Snippets)
+
+- [HOUDINI - event callbacks](https://80.lv/articles/template-flag-kitty-using-event-callbacks-in-houdini/)
 
 ## Vex snippets
 ### list detail attributes
