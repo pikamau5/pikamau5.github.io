@@ -1,7 +1,3 @@
-# pikamau5.github.io
+# Potati's Tech Art Blog
 
-## hello asdfasdasd
-testing stuff
-## another title
-
-asdasdasds
+[Houdini things](houdini-things.md)
