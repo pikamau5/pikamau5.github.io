@@ -255,7 +255,7 @@ i {
 
 b 
 {
-	color: #219bbf; /*#f0f0f0;*/ /*#ff9c54;*/ /*#969696;*/
+	color: #ffffff; /*#219bbf;*/ /*#f0f0f0;*/ /*#ff9c54;*/ /*#969696;*/
 	font-weight:inherit;
 	font-size: 22px;
 	line-height:45px;
@@ -284,6 +284,8 @@ font-style: normal;
 	text-align: left !important;
 	font-size: 15px;
 	padding-bottom:50px;
+	padding-left:100px;
+	padding-right:100px;
 }
 .bread_text_mid
 {
@@ -302,8 +304,12 @@ font-style: normal;
 .wide{
 	padding-left: 0px !important;
 	padding-right: 0px !important;
-	width: 1000px !important;
+	width: 800px !important;
 	
+}
+
+.show{
+	max-width: 800px !important;
 }
 
 .margin_bottom 
